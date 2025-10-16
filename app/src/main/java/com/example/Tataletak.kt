@@ -50,4 +50,4 @@ fun TataletakBox(modifier: Modifier){
 }
 
 @Composable
-fun TataletakRowColumn(modifier: Modifier){}
+fun TataletakColumnRow(modifier: Modifier){}
