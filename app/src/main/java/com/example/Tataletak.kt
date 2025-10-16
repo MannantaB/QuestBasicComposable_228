@@ -8,5 +8,5 @@ import androidx.compose.ui.unit.dp
 
 @Composable
 fun TataletakColumn(modifier: Modifier){
-    Column(modifier = modifier.padding(top = 20.dp)){  }
+    Column(modifier = modifier.padding(top = 20.dp, start = 20.dp)){  }
 }
